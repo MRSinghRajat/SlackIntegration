@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Chats" max_length="40" name="x_77531_sococo_thi_chats" type="collection">
+        <element default="2000" label="Payload" max_length="2000" name="payload" type="string"/>
+    </element>
+</database>
